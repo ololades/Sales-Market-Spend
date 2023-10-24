@@ -1,5 +1,5 @@
 # Examing sales and marketing spend.
-This project focuses on understanding and quantifying the relationship between sales and marketing expenditure. The aim is to uncover insights that will help improve the company's marketing strategy. Links to the dataset used for the analysis is https://www.kaggle.com/datasets/frtgnn/dunnhumby-the-complete-journey?select=product.csv
+This project focuses on understanding and quantifying the relationship between sales and marketing expenditure. The aim is to uncover insights that will help improve the company's marketing strategy. 
 
 
 ## Goals
