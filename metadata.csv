@@ -1,0 +1,7 @@
+Attribute,Value
+Data type,Numbers(integer)
+Data format,CSV 
+Data source,https://www.kaggle.com/datasets/ai0909/sales-data-for-company-product
+Date and time collected,2023-10-17 12:00:00 CET
+Description of the data,This dataset contains information about Sale[sales for each observed week]; InStrSpending[average expenses associated with promoting the produc]; Discount[discount rate applicable for the observed week]; TVSpending; StockRate; Price; Radio; OnlineAdsSpending
+Purpose of the data,This data will be used to analyze the relationship between sales and marketing spend to develop strategic attribution modeling
